@@ -1,0 +1,13 @@
+import React from 'react'
+
+const Loginsingup = () => {
+    return(
+    <div>
+
+    </div>
+    )
+}
+
+
+export default Loginsingup
+
